@@ -9156,7 +9156,7 @@ j=A.ca(n,j,t.fw)
 s=J.JZ(10,m)
 for(r=0;r<10;r=q){q=r+1
 s[r]="Item "+q}n=$.b5()
-return new A.Qu(j,s,A.ca(n,A.iN(),t.d),A.ca(n,A.kF(),t.ZR),["assets/images/freefire_banner.jpg","assets/images/pubg_banner.jpg","assets/images/banner_aov.jpg","assets/images/banner_wot.jpg","assets/images/banner_ml.jpg"],B.m)},
+return new A.Qu(j,s,A.ca(n,A.iN(),t.d),A.ca(n,A.kF(),t.ZR),["assets/images/banner_aov.jpg","assets/images/banner_wot.jpg","assets/images/banner_ml.jpg","assets/images/freefire_banner.jpg","assets/images/pubg_banner.jpg"],B.m)},
 aCC(){var s,r=null,q=$.b5()
 if(A.asH(q)!=null){s=A.bZ(10)
 A.ax0(q,A.r5(r,B.J,A.aw7(new A.aW(B.lF,A.ax(A.a([A.af("Mohon Tunggu",r,r,r,A.aa(r,r,r,r,r,r,r,r,r,r,r,18,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.T(r,10,r),A.ta("assets/images/loading.png",r,200,200)],t.p),B.n,B.k,B.cw),r),new A.cS(s,B.x)),0,r,r),!1,!1,t.z)}},
