@@ -45960,7 +45960,7 @@ else q=a5>=1012&&a5<=1040?4:5
 A.at(a6,a2,a4).toString
 if(!r)!(a5>=515&&a5<1012)
 r=A.U(a2,10,a2)
-p=A.am(a2,A.hm("assets/images/tentang_image_kase.png",a2,B.cL,a2,a2),B.h,a2,a2,a2,a2,400,a2,a2,a2,a2,1000)
+p=A.am(a2,A.hm("assets/images/pc_kase.png",a2,B.cL,a2,a2),B.h,a2,a2,a2,a2,400,a2,a2,a2,a2,1000)
 o=A.U(a2,20,a2)
 n=$.aCs()
 m=A.bs(8)
